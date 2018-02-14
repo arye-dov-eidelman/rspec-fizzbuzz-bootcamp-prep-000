@@ -9,4 +9,4 @@ def fizzbuzz(x)
     return nil
   end
 end
-fizzbuzz(3)
+puts fizzbuzz(3)
