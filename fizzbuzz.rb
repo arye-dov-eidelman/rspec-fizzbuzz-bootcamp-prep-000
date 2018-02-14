@@ -12,4 +12,4 @@ end
 end
   return result
 end
-puts fizzbuzz(7)
+#puts fizzbuzz(7)
