@@ -8,6 +8,8 @@ def fizzbuzz(x)
   else
     result = nil
   end
+end
+end
   return result
 end
 puts fizzbuzz(0)
