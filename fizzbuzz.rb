@@ -1,5 +1,4 @@
 def fizzbuzz(x)
-  case x
   if x % 15 == 0
     result = "FizzBuzz"
   else if x % 3 == 0
