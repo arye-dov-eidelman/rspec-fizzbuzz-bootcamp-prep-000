@@ -1,9 +1,9 @@
 def fizzbuzz(x)
   if x % 15 == 0
     return 'FizzBuzz'
-  else if x % 3 == 0
+  elseif x % 3 == 0
     return 'Fizz'
-  else if x % 5 == 0
+  elseif x % 5 == 0
     return 'Buzz'
   else
     return nil
